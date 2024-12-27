@@ -2,7 +2,7 @@ import React from 'react'
 
 export const Bootstrap = () => {
     const Bootbakery = ()=>{
-        const newWindow = window.open('https://villagebakery.developers141.com/', '_blank');
+        const newWindow = window.open('https://happy-works.github.io/the-village-bakery/', '_blank');
         if (newWindow) newWindow.focus();
        }
   return (

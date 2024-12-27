@@ -2,12 +2,12 @@ import React from 'react'
 
 export const Htmlwork = () => {
     const hsaloon = ()=>{
-        const newWindow = window.open('https://saloon.developers141.com/', '_blank');
+        const newWindow = window.open('https://happy-works.github.io/the-crystal-saloon/', '_blank');
         if (newWindow) newWindow.focus();
        }
     
        const hhappyworks = ()=>{
-        const newWindow = window.open('https://happyworks.developers141.com/', '_blank');
+        const newWindow = window.open('https://happy-works.github.io/happy-works/', '_blank');
         if (newWindow) newWindow.focus();
        }
   return (

@@ -2,17 +2,17 @@ import React from 'react'
 
 export const Javawork = () => {
     const voice = ()=>{
-        const newWindow = window.open('https://voice.developers141.com/', '_blank');
+        const newWindow = window.open('https://happy-works.github.io/voice-ai/', '_blank');
         if (newWindow) newWindow.focus();
        }
     
     const registrationform = ()=>{
-        const newWindow = window.open('https://eventform.developers141.com/', '_blank');
+        const newWindow = window.open('https://happy-works.github.io/registration-form/', '_blank');
         if (newWindow) newWindow.focus();
        }
     
     const developers141 = ()=>{
-        const newWindow = window.open('https://developers141.com/', '_blank');
+        const newWindow = window.open('https://happy-works.github.io/developers141/', '_blank');
         if (newWindow) newWindow.focus();
        }
   return (

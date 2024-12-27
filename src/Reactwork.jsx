@@ -2,7 +2,7 @@ import React from 'react'
 
 export const Reactwork = () => {
     const qrcode = ()=>{
-        const newWindow = window.open('https://qrcode.developers141.com/', '_blank');
+        const newWindow = window.open('https://happy-works.github.io/Qr-code-generator/', '_blank');
         if (newWindow) newWindow.focus();
        }
   return (
